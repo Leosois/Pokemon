@@ -1,0 +1,16 @@
+@media(max-width: 750px){
+    body{
+        font-size: 12px;
+    }
+    .pokedex{
+        flex-direction: column;
+        padding: 30px;
+    }
+    .pokemon-card{
+        max-width: 300px;
+    }
+    .pokemon-card .card-img{
+        width: 200px;
+        height: 200px;
+    }
+}
